@@ -2,7 +2,7 @@
   "Ads": [
       {
      "select_main_ads": "ADMOB",
-      "select_backup_ads":"FACEBOOK",
+      "select_backup_ads":"ALIEN-V",
       "main_ads_banner": "ca-app-pub-5755936845363982/4305511947",
       "main_ads_intertitial":"ca-app-pub-5755936845363982/1487776916",
       "main_ads_natives":"ca-app-pub-5755936845363982/3686526855",
@@ -13,7 +13,7 @@
       "backup_ads_rewards":"",
       "open_ads_admob":"ca-app-pub-5755936845363982/4687326336",
       "open_ads_alien":"",
-      "switch_open_ads":"",
+      "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
       "interval_intertitial": 3,
       "initialize_sdk":"",
