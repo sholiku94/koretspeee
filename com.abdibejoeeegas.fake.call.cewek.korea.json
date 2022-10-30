@@ -13,7 +13,7 @@
       "backup_ads_rewards":"",
       "open_ads_admob":"ca-app-pub-5755936845363982/4467834482",
       "open_ads_alien":"",
-      "switch_open_ads":"",
+      "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
       "interval_intertitial": 3,
       "initialize_sdk":"",
@@ -94,4 +94,5 @@
       "voice_url": "suaracewekkorea6.mp3"
     }
   ]
+  
 }
